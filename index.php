@@ -1,8 +1,8 @@
 <HTML>
 	<BODY>
 		<?php
-			print "Hello world<br>";
-			print "Hello World";
+			print "นางสาวใจดี มีใจ<br>";
+			print "นายมีใจ ใจดี";
 		?>
 	</BODY>
 </HTML>
